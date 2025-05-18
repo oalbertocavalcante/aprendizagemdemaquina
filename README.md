@@ -1,10 +1,5 @@
 # 📊 Atividade Ativa – Análise Visual do Dataset Iris
 
-**Discente:** _[Seu nome aqui]_  
-**Turma:** _[Sua turma aqui]_  
-**Professor:** Prof. Me. William A.  
-_"Mais do que ensinar, ou instruir, quero inspirar!"_
-
 ---
 
 ## 1. 📝 Descrição
