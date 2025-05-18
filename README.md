@@ -50,7 +50,7 @@ Explorar visualmente o conjunto de dados **Iris** para identificar padrões entr
 
 ### 4.1 Requisitos
 
-- Python instalado ou uso do [Google Colab](https://colab.research.google.com/)
+- Python instalado ou uso do [Google Colab](https://colab.research.google.com/drive/1Hijw59F8Bz9EQqi0HQRRsyZ-dEr4dIcy?usp=sharing)
 - Bibliotecas: `pandas`, `matplotlib`, `seaborn`
 
 ### 4.2 Execução
